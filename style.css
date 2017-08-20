@@ -3506,7 +3506,7 @@ footer .subcribe form .field input {
   width: 63%;
 }
 .navigation #search-toggle, .navigation #menu-toggle {
-  margin: 25px 55px 25px 0;
+  margin: 25px 10px 25px 0;
 }
 .mobile-menu-area {
   display: block;
@@ -3577,7 +3577,7 @@ footer .subcribe form .field input {
   font-size: 12px;
 }
 .navigation #search-toggle, .navigation #menu-toggle {
-  margin: 25px 55px 25px 0;
+  margin: 15px 10px 25px 0;
 }
 .mobile-menu-area {
   display: block;
