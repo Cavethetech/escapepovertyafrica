@@ -3308,7 +3308,7 @@ footer .footer-bar h5 a {
   font-size: 24px;
   font-weight: 900;
   line-height: 31px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .about-right-text .btn.btn-min.btn-secondary {
   margin-top: 22px;
