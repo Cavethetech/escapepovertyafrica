@@ -3378,6 +3378,7 @@ a#scrollUp:hover {
   float: left;
   text-align: left;
   width: 50%;
+  font-size: 20px;
 }
 .cause .meta {
   margin-bottom: 20px;
